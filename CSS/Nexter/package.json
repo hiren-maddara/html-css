@@ -1,0 +1,11 @@
+{
+  "name": "my-space",
+  "version": "1.0.0",
+  "description": "my-space app",
+  "main": "index.html",
+  "scripts": {
+    "watch-sass":"sass sass/main.scss css/style.css -w"
+  },
+  "author": "hiren maddara",
+  "license": "ISC"
+}
